@@ -37,6 +37,5 @@ A Realtime Code Editor, where users can seamlessly code together. It provides a 
 🛠️ Git   
 🌍 GitHub   
 🚀 Vercel  
-📦 Docker
 
 
